@@ -19,20 +19,4 @@ A cada jogada, o programa deverá indicar se o adversário escapou ou não com v
 No final de todas as jogadas, deve ser impresso o número total de vítimas e sobreviventes. No entanto, se o gladiador for morto numa jogada, o programa deverá parar e indicar o número de vítimas e sobreviventes até ao momento e o número de jogadas que foram necessárias para o aniquilar!
 
 
-# Solução Top-Down
-
-1. Randomizar a posição do gladiador (A)
-  - X, Y do gladiador
-  - Gerar modo de ataque
-2. Pedir ao utilizador as posições do jogador adversário (B)
-  - input (ecrã)
-3. Calcular a distância entre eles
-  - calcular a expressão
-4. Verificar se é possível o ataque
-  - Verificar se a distância entre eles é menor que o r (está na area de ataque)
-  - Verificar se o gladiador está em modo de ataque (True or False - aleatório)
- 
-- Atualizar estatísticas: mortos, sobreviventes
-- Se o gladiador (escondido, A) for morto, então acaba o jogo, caso contrário dá até 10 jogadas feito
-
-- Source: As Raparigas do Código - Workshop Python
+Source: As Raparigas do Código - Workshop Python
