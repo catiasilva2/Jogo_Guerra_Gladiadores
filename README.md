@@ -19,4 +19,4 @@ A cada jogada, o programa deverá indicar se o adversário escapou ou não com v
 No final de todas as jogadas, deve ser impresso o número total de vítimas e sobreviventes. No entanto, se o gladiador for morto numa jogada, o programa deverá parar e indicar o número de vítimas e sobreviventes até ao momento e o número de jogadas que foram necessárias para o aniquilar!
 
 
-Source: As Raparigas do Código - Workshop Python
+Source: Projeto final: Workshop Python - As Raparigas do Código
