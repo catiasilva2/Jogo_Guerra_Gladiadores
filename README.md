@@ -1,4 +1,4 @@
-# Jogo_Guerra_Gladiadores
+# Jogo de Guerra: Gladiadores
 
 Na Roma Antiga, os Gladiadores lutavam entre si na arena, para entretimento do Imperador e do público. O espetáculo, violento e sangrento, era até à morte. Hoje, vamos escrever um pequeno jogo em Python, que nos permita simular um jogo de gladiadores com o computador!
 
@@ -32,5 +32,5 @@ No final de todas as jogadas, deve ser impresso o número total de vítimas e so
   4.1) Verificar se a distância entre eles é menor que o r (está na area de ataque)
   4.2) Verificar se o gladiador está em modo de ataque (True or False - aleatório)
  
-Atualizar estatísticas: mortos, sobreviventes
-Se o gladiador (escondido, A) for morto, então acaba o jogo, caso contrário dá até 10 jogadas feito
+- Atualizar estatísticas: mortos, sobreviventes
+- Se o gladiador (escondido, A) for morto, então acaba o jogo, caso contrário dá até 10 jogadas feito
